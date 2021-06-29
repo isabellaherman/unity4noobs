@@ -2,6 +2,6 @@
 
 ## <center> Select Language </center>
 
-[🇧🇷 Português](../Unity4noobs/PT/HomePT.md)
+[🇧🇷 Português](/PT/HomePT.md)
 
 [🇺🇸 English](#)
