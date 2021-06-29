@@ -5,7 +5,7 @@
 ## Índice
 #
 ### Introdução 
-1. [Saudações!](../PT/1_INTRO/1_welcome.md)
+1. [Saudações!](/PT/1_INTRO/1_welcome.md)
 2. [Boas Práticas](#)
 
 ### Configuração de Ambiente
