@@ -6,10 +6,21 @@
 #
 ### Introdução 
 1. [Saudações!](/PT/1_INTRO/1_welcome.md)
-2. [Boas Práticas](#)
+2. [Boas Práticas 🚧](#)
 
 ### Configuração de Ambiente
  1. [Instalação da Game Engine](#)
+
+### Módulo Básico
+
+1. [Conheça a Unity](/PT/3_BASICO/1/1_interface.md)
+1. [Sintaxe C# 🚧](#)
+1. [Comentários 🚧](#)
+1. [Variáveis 🚧](#)
+1. [Debug 🚧](#)
+1. [](#)
+1. [](#)
+1. [](#)
 
 
 ## Como contribuir
