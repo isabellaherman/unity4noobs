@@ -1,6 +1,6 @@
 ### 1.1 Boas Vindas
 
-Seja muito bem vindo(a) ao manual da engine Unity feito em parceria a He4rt Developers.
+Seja muito bem vindo(a) ao manual da engine Unity feito em parceria com a He4rt Developers.
 
 Nosso objetivo é te fornecer um material de estudo no seu idioma e **gratuito** para que você possa sair daqui trilhando sua jornada como um desenvolvedor de jogos :)
 
