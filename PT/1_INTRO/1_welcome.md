@@ -6,7 +6,5 @@ Nosso objetivo é te fornecer um material de estudo no seu idioma e **gratuito**
 
 A Unity é um motor de jogo desenvolvido pela Unity Technologies, atualmente uma das engines mais utilizadas do mercado, e oferece a possibilidade de criar jogos 2D e 3D e exportar os mesmos para diversas plataformas.
 
-<div>
-  <a href="#" style="float: right;">1.2 Boas Práticas</a> 
-  <a href="#" style="float: left;">Voltar para a Home</a> 
-</div>
+
+Avançar [1.2 Boas Práticas](./2_wayto.md)
