@@ -15,7 +15,7 @@
 ### Módulo Básico
 
 1. [Conheça a Unity](/PT/3_BASICO/1/1_interface.md)
-1. [Sintaxe C# 🚧](#)
+1. [Sintaxe C# 🚧](/PT/3_BASICO/2.syntax.md)
 
 1. [Comentários 🚧](#)
 1. [Variáveis 🚧](#)
