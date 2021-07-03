@@ -15,14 +15,14 @@
 ### Módulo Básico
 
 1. [Conheça a Unity](/PT/3_BASICO/1/1_interface.md)
-1. [Sintaxe C# 🚧](/PT/3_BASICO/2.syntax.md)
+1. [Sintaxe C#](/PT/3_BASICO/2.syntax.md)
 
-1. [Comentários 🚧](#)
-1. [Variáveis 🚧](#)
-1. [Debug 🚧](#)
-1. [](#)
-1. [](#)
-1. [](#)
+1. [Comentários](/PT/3_BASICO/3.comments.md)
+1. [Variáveis](/PT/3_BASICO/4_var.md)
+1. [Debug](/PT/3_BASICO/5.debug.md)
+1. [Componentes](/PT/3_BASICO/6/6.components.md)
+1. [#](#)
+1. [#](#)
 
 
 ## Como contribuir
