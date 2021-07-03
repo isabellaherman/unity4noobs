@@ -1,3 +1,5 @@
+[Home](../HomePT.md) • [3.4 Variáveis](#)
+
 # Variáveis
 
 
@@ -54,4 +56,6 @@ A Unity complementa esse conceito com os atributos
 ### Pós e Contras 
 
 **[SerializeField]**
+
+Avançar [3.5 Debug](./5.debug.md)
 
