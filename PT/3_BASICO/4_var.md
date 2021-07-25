@@ -7,7 +7,7 @@ Na programação uma variável é um objeto capaz de reter e representar um valo
 
 No C# nós estruturamos a variável escolhendo a sua `tipagem` seguindo com seu `nome`.
 
-```
+```csharp
 int life = 5;
 float speed = 4f;
 string say = "my name";
