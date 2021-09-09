@@ -12,4 +12,4 @@ A interface ou UI, é um meio que o jogo encontra de passar informações para o
 
 No exemplo acima a interface está dizendo ao jogador o nome do personagem¹, a pontuação geral², a quantidade de moedas coletadas³, a fase atual⁴, o tempo corrido⁵ e pontos coletados ao matar um inimigo⁶.
 
-Avançar [1.2 Componentes de Interface](./1.2_uicomponents.md)
+Avançar [Componentes de Interface](./1_uicomponents.md)
