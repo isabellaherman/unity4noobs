@@ -8,7 +8,7 @@ Como vimos no módulo anterior a Unity utiliza componentes para facilitar a cria
 
 1. [Button](./1.1_button.md)
 2. [Dropdown](./1.2_dropdown.md)
-1. [Effects](#)
+1. [Effects 🚧](#)
 1. [Image](./1.4_image.md)
 1. [Input Field 🚧](./1.5_inputfield.md)
 1. [Mask](./1.6_mask.md)
