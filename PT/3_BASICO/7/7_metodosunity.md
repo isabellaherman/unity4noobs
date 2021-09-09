@@ -7,7 +7,7 @@ Component.Method();
 ```
 
 
-1. [Compare Tag](./7.1_comparetag.md)
+1. [Compare Tag](./7.1.comparetag.md)
 1. 
 1. 
 1. 
