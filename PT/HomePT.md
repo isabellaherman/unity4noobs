@@ -21,7 +21,7 @@
 1. [Variáveis](/PT/3_BASICO/4_var.md)
 1. [Debug](/PT/3_BASICO/5.debug.md)
 1. [Componentes](/PT/3_BASICO/6/6.components.md)
-1. [Métodos da Unity](/7)
+1. [Métodos da Unity](/PT/3_BASICO/7/7_metodosunity.md)
 1. [#](#)
 
 ### Módulo Intermediário
