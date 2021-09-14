@@ -12,4 +12,4 @@ A Unity é um motor de jogo desenvolvido pela Unity Technologies, atualmente uma
 
 Um agradecimento especial a comunidade MAGE, meus amgios, meus subs, viewers e todas as pessoas que passaram, mesmo que brevemente, e apoiaram esse projeto.
 
-Avançar [1.2 Boas Práticas](./2_wayto.md)
+Avançar [1.2 Open Source](./2_wayto.md)
