@@ -1,5 +1,5 @@
 # Unity4noobs
-<center> Manual em português para iniciantes em Unity.
+<center> Nós acreditamos que jogos devem ser para todos, e o desenvolvimento deles também. Desenvolver jogos deve ser fácil, acessível, divertido e para todo mundo.
 </center>
 
 ## Índice
