@@ -2,7 +2,7 @@
 
 ### 1.1 Boas Vindas
 
-O objetivo dessa documentação é proporcionar um material de estudo no seu idioma e da forma mais didática para contribuirmos até 
+O objetivo dessa documentação é proporcionar um material de estudo no seu idioma de forma clara e didática.
 
 Nós acreditamos que jogos devem ser para todos, e o desenvolvimento deles também. No meio *dev* precisamos falar sobre acessibilidade. Algo acessível não é apenas gratuito. Quando decidi iniciar esse projeto minha maior preocupação foi achar uma forma de se comunicar com diferentes públicos levando em conta as possíveis dificuldades de aprendizado de cada um. A barreira do idioma, a complexidade das documentações, disfunções, etc.
 
