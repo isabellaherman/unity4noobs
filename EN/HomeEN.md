@@ -7,12 +7,12 @@ We believe that games should be for everyone, and also the game development. Dev
 ## Index
 #
 ### Intro
-1. [Greetings](/ENG/1_INTRO_ENG/1_welcome_eng.md)
-2. [Open Source](/PT/1_INTRO_ENG/2_wayto_eng.md)
+1. [Greetings](/EN/1_INTRO_ENG/1_welcome_eng.md)
+2. [Open Source](/EN/1_INTRO_ENG/2_wayto_eng.md)
 
 ### Configuração de Ambiente
- 1. [Download and Installing](/PT/2_CONFIG_ENG/1.download_eng.md)
- 2. [Installing Components](/PT/2_CONFIG/2.install.md)  
+ 1. [Download and Installing](/EN/2_CONFIG_ENG/1.download_eng.md)
+ 2. [Installing Components](/EN/2_CONFIG/2.install.md)  
 
 ### Módulo Básico
 
