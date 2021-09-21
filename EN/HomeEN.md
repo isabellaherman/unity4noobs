@@ -12,7 +12,7 @@ We believe that games should be for everyone, and also the game development. Dev
 
 ### Configuração de Ambiente
  1. [Download and Installing](/EN/2_CONFIG_ENG/1.download_eng.md)
- 2. [Installing Components](/EN/2_CONFIG/2.install.md)  
+ 2. [Installing Components](/EN/2_CONFIG/2.install_eng.md)  
 
 ### Módulo Básico
 
