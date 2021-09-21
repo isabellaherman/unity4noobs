@@ -16,10 +16,10 @@ We believe that games should be for everyone, and also the game development. Dev
 
 ### Módulo Básico
 
-1. [Conheça a Unity](/PT/3_BASICO/1/1_interface.md)
-1. [Sintaxe C#](/PT/3_BASICO/2.syntax.md)
+1. [Getting to Know Unity](/EN/3_BASIC/1/1_interface_eng.md)
+1. [Syntax C#](/EN/3_BASIC/2.syntax_eng.md)
 
-1. [Comentários](/PT/3_BASICO/3.comments.md)
+1. [Comments](/EN/3_BASIC/3.comments_eng.md)
 1. [Variáveis](/PT/3_BASICO/4_var.md)
 1. [Debug](/PT/3_BASICO/5.debug.md)
 1. [Componentes](/PT/3_BASICO/6/6.components.md)
