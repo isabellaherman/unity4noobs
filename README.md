@@ -7,4 +7,4 @@
 
 [🇧🇷 Português](/PT/HomePT.md)
 
-[🇺🇸 English 🚧](/ENG/HomeEN.md)
+[🇺🇸 English 🚧](/EN/HomeEN.md)
