@@ -26,7 +26,7 @@ We believe that games should be for everyone, and also the game development. Dev
 1. [Unity Methods](/PT/3_BASICO/7/7_metodosunity.md)
 1. [#](#)
 
-### Módulo Intermediário
+### Intermediate Module
 
 1. [UI](/PT/4_INTER/1/1_interface.md)
 
