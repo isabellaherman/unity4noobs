@@ -8,3 +8,5 @@
 [🇧🇷 Português](/PT/HomePT.md)
 
 [🇺🇸 English 🚧](/EN/HomeEN.md)
+
+[🇰🇷 한국어 🚧](/KR/HomeKR.md)
