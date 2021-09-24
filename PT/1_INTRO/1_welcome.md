@@ -10,6 +10,6 @@ Essa documentação não foi desenvolvida com o intuito de substituir a document
 
 A Unity é um motor de jogo desenvolvido pela Unity Technologies, atualmente uma das engines mais utilizadas do mercado, e oferece a possibilidade de criar jogos 2D e 3D e exportar os mesmos para diversas plataformas.
 
-Um agradecimento especial a comunidade MAGE, meus amgios, meus subs, viewers e todas as pessoas que passaram, mesmo que brevemente, e apoiaram esse projeto.
+Um agradecimento especial a comunidade MAGE, meus amigos, meus subs, viewers e todas as pessoas que passaram, mesmo que brevemente, e apoiaram esse projeto.
 
 Avançar [1.2 Open Source](./2_wayto.md)
